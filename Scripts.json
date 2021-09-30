@@ -1,0 +1,22 @@
+{
+    "Script Listener": {
+         "Dex Explorer": { 
+            "Name": "Dex Explorer", 
+            "source": "https://cdn.discordapp.com/attachments/756137943768236133/776898424275468348/Dex_Explorer_V2.txt", 
+            "Description": "A verion of the popular Dex explorer with patches specifically for Sentinel. Bypasses most anti-exploits aswell.", 
+            "Picture": "https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png"
+        },
+        "Remote Spy":{
+            "Name": "Remote Spy", 
+            "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/CMD-X", 
+            "Description": "Allows you to view RemoteEvents and RemoteFunctions called.", 
+            "Picture": "https://i.imgur.com/unHQu8p.png"
+        },
+        "Unnamed ESP":{
+            "Name": "Unnamed ESP", 
+            "source": "https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua", 
+            "Description": "ESP Made by ic3w0lf using the Drawing API.", 
+            "Picture": "https://i.imgur.com/NXnDgN2.png"
+        }
+    }
+}
